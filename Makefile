@@ -1,6 +1,6 @@
 .PHONY: run
 run:
-	uv run app.py
+	uv run main.py
 
 .PHONY: format
 format:
